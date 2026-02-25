@@ -1,0 +1,1 @@
+# Iris-Scribe-LocalAI-Assistant-with-Handwritten-Text-Recognition
