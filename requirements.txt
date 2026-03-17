@@ -1,0 +1,10 @@
+streamlit
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pillow
+opencv-python
+pytesseract
+llama-cpp-python
