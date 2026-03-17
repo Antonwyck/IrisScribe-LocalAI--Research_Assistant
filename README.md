@@ -51,29 +51,9 @@ The IrisScribe system follows a multi-stage pipeline:
 
 ## Project Structure
 IrisScribe-LocalAI--Research_Assistant/
-│
-├── main.py
-├── config.py
-├── requirements.txt
-├── README.md
-│
-├── ingestion/
-│ ├── pdf_reader.py
-│ ├── ocr_reader.py
-│ ├── trocr_reader.py
-│ └── chunker.py
-│
-├── embeddings/
-│ └── embedder.py
-│
-├── vector_store/
-│ └── faiss_db.py
-│
-├── llm/
-│ └── llm_engine.py
-│
-└── rag_store/
----
+## System Architecture
+
+![IrisScribe RAG Pipeline](images/iris architecture.png)
 
 ## Installation
 
@@ -122,6 +102,14 @@ qwen2-1_5b-instruct-q4_k_m.gguf
 - NumPy
 
 ---
+
+## Interface Preview
+
+![IrisScribe Home Screen](images/1one.png)
+
+![Document Upload and Query Interface](images/2one.png)
+![Query Interface](images/3one.png)
+![Output and Debuggin](images/4one.png)
 
 ## Future Improvements
 
