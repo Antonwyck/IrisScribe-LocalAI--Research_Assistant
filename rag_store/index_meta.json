@@ -1,0 +1,40 @@
+{
+  "dim": 768,
+  "index_meta": [
+    {
+      "chunk_id": "3fb2da5c-95c7-4d59-92d9-b882562cc0ee",
+      "doc_id": "86c9a9b5-414c-484b-a54a-affba87227a6",
+      "chunk_index": 0,
+      "source": "E:\\docu\\tamil.pdf",
+      "page": null
+    },
+    {
+      "chunk_id": "9e09b460-0abd-4c46-a984-00a66303612c",
+      "doc_id": "86c9a9b5-414c-484b-a54a-affba87227a6",
+      "chunk_index": 1,
+      "source": "E:\\docu\\tamil.pdf",
+      "page": null
+    },
+    {
+      "chunk_id": "caed5fe4-410b-4071-9d43-f54e5f5b6efa",
+      "doc_id": "86c9a9b5-414c-484b-a54a-affba87227a6",
+      "chunk_index": 2,
+      "source": "E:\\docu\\tamil.pdf",
+      "page": null
+    },
+    {
+      "chunk_id": "101ed655-bdfe-4615-99f2-7a3fd7aa5ed9",
+      "doc_id": "86c9a9b5-414c-484b-a54a-affba87227a6",
+      "chunk_index": 3,
+      "source": "E:\\docu\\tamil.pdf",
+      "page": null
+    },
+    {
+      "chunk_id": "0d8eed1b-fbb3-4a79-b49b-83241915fc02",
+      "doc_id": "86c9a9b5-414c-484b-a54a-affba87227a6",
+      "chunk_index": 4,
+      "source": "E:\\docu\\tamil.pdf",
+      "page": null
+    }
+  ]
+}
