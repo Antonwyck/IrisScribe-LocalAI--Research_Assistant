@@ -53,7 +53,7 @@ The IrisScribe system follows a multi-stage pipeline:
 IrisScribe-LocalAI--Research_Assistant/
 ## System Architecture
 
-![IrisScribe RAG Pipeline](images/iris architecture.png)
+![IrisScribe RAG Pipeline](images/iris_arch.png)
 
 ## Installation
 
