@@ -1,6 +1,6 @@
-# IrisScribe – Local AI Research Assistant
+# ScoperAI – Local AI Research Assistant
 
-IrisScribe is an offline AI assistant designed for intelligent document analysis and information retrieval.  
+Scoper is an offline AI assistant designed for intelligent document analysis and information retrieval.  
 The system processes documents such as PDFs and images, extracts text using OCR and handwritten text recognition, converts the extracted content into embeddings, and uses Retrieval-Augmented Generation (RAG) with a local large language model to answer user queries.
 
 Unlike many AI tools that rely on cloud APIs, IrisScribe operates locally, allowing users to analyze sensitive documents while maintaining privacy.
@@ -21,7 +21,7 @@ Unlike many AI tools that rely on cloud APIs, IrisScribe operates locally, allow
 
 ## System Pipeline
 
-The IrisScribe system follows a multi-stage pipeline:
+The ScoperAI system follows a multi-stage pipeline:
 
 1. Document Ingestion  
    Documents such as PDFs or images are uploaded into the system.
@@ -50,7 +50,7 @@ The IrisScribe system follows a multi-stage pipeline:
 ---
 
 ## Project Structure
-IrisScribe-LocalAI--Research_Assistant/
+Scoper-LocalAI--Research_Assistant/
 ## System Architecture
 
 ![IrisScribe RAG Pipeline](images/iris_arch.png)
@@ -58,9 +58,9 @@ IrisScribe-LocalAI--Research_Assistant/
 ## Installation
 
 Clone the repository:
-git clone https://github.com/Antonwyck/IrisScribe-LocalAI--Research_Assistant.git
+git clone https://github.com/Antonwyck/Scoper-LocalAI--Research_Assistant.git
 
-cd IrisScribe-LocalAI--Research_Assistant
+cd Scoper-LocalAI--Research_Assistant
 
 Install dependencies:
 pip install -r requirements.txt
